@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные и модели (большие файлы)
+*.csv
+*.xlsx
+*.pt
+*.bin
+*.safetensors
+t5_*/
+mlruns/
+
+# wandb
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
