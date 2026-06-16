@@ -13,3 +13,11 @@ env/
 
 .env
 .env.*
+
+wandb/
+t5_*/
+mlruns/
+*.pt
+*.bin
+*.safetensors
+Thumbs.db
